@@ -1,0 +1,10 @@
+pagetitle: Homepage
+header:
+  - /index/header.md
+main:
+  - intro.md
+  - promo.md
+  - features.md
+  - users.md
+footer:
+  - /_shared/footer.md
