@@ -1,6 +1,6 @@
 ---
 layout: structure/header
-title: Government Open Language for Design
+title: Government Style Manual
 mainmenu: /_shared/mainmenu.md
 header_govau: /_shared/header-govau.md
 ---
