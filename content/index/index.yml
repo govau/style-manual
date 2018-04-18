@@ -5,6 +5,7 @@ main:
   - intro.md
   - promo.md
   - features.md
-  - users.md
+  # - users.md
+  # - statisitics.md
 footer:
   - /_shared/footer.md
