@@ -24,7 +24,8 @@
 		"start:local": "node server/index.js local",
 		"start:staging": "node server/index.js staging",
 		"start": "node server/index.js",
-		"test": "echo 'Error: no test specified' && exit 0"
+		"test": "echo 'Error: no test specified' && exit 0",
+		"deploy:cf": "cf push style-manual-alpha -c \"node server/index.js\""
 	},
 	"repository": {
 		"type": "git",
