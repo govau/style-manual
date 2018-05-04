@@ -18,7 +18,7 @@ import Fs from 'fs';
 const GetData = ({ yaml, filter = () => true, object = false }) => {
 	const COMPONENTS = yaml(
 		Fs.readFileSync(
-			Path.normalize(`${ __dirname }/../../content/components/_all.yml`),
+			Path.normalize(`${ __dirname }/../../content/content-types/_all.yml`),
 			{ encoding: 'utf8' }
 		)
 	);

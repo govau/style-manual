@@ -3,11 +3,11 @@ layout: structure/footer
 headline: Community
 mainlist:
   - text: Forums
-    link: https://community.service.gov.au/c/designsystem
+    link: #
   - text: Roadmap
-    link: https://github.com/orgs/govau/projects/7?fullscreen=true
+    link: #
   - text: Github
-    link: https://github.com/govau/uikit/
+    link: #
 legallist:
   - text: Privacy
     link: https://www.dta.gov.au/privacy-statement/

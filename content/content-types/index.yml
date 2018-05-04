@@ -1,0 +1,15 @@
+layout: component/page
+pagetitle: content-types
+headernav: false
+showheader: false
+
+header:
+  - /_shared/header.md
+
+sidebar:
+
+main:
+  - intro.md
+
+footer:
+  - /_shared/footer.md

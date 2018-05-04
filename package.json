@@ -5,7 +5,7 @@
 	"scripts": {
 		"docs": "cuttlebelle docs",
 		"prebuild:pancake": "./node_modules/.bin/pancake",
-		"prebuild": "npm run prebuild:pancake && node src/helper/helper.js components",
+		"prebuild": "npm run prebuild:pancake",
 		"build:site": "./node_modules/.bin/cuttlebelle",
 		"build:autoprefix": "postcss src/assets/css/style.css -u autoprefixer -r --no-map && postcss src/assets/css/example.css -u autoprefixer -r --no-map",
 		"build:sass": "mkdir -p src/assets/css/ && node-sass --output-style compressed -o src/assets/css src/sass/style.scss && node-sass --output-style compressed -o src/assets/css src/sass/example.scss",
