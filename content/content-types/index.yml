@@ -7,6 +7,7 @@ header:
   - /_shared/header.md
 
 sidebar:
+  - /sidebar.md
 
 main:
   - intro.md
