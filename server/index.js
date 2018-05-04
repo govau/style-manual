@@ -1,4 +1,4 @@
-const DisplaySearch = require('./search.js');
+// const DisplaySearch = require('./search.js');
 const Display404 = require('./404.js');
 const Express = require('express');
 const Path = require('path');
@@ -80,9 +80,9 @@ Server
 	.get( '*', AddFakePassword )
 
 	// Then we add dynamic routes that overwrite static ones
-	.get( '/components/search/', ( request, response ) => {
-		response.send( DisplaySearch( request.query.s ) );
-	})
+	// .get( '/components/search/', ( request, response ) => {
+	// 	response.send( DisplaySearch( request.query.s ) );
+	// })
 
 	// Now static assets
 	.use( Express.static( Path.normalize(`${ __dirname }/../site/`) ) )
