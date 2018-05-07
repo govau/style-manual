@@ -28,18 +28,18 @@ const Example = ({ _ID, _relativeURL, pagetitle, modules, filter, tabbing, examp
 <meta name="robots" content="index, follow">
 <meta name="author" content="Digital Transformation Agency">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Australian Government Design System">
+<meta name="twitter:title" content="Australian Government Styl Manual">
 <meta name="twitter:description" content="Inclusive design, open-source code and shared insights">
-<meta name="twitter:name" content="Australian Government Design System">
+<meta name="twitter:name" content="Australian Government Styl Manual">
 <meta name="twitter:image" content="https://designsystem.gov.au/assets/favicons/designsystem.jpg">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Australian Government Design System">
-<meta property="og:site_name" content="Australian Government Design System">
+<meta property="og:title" content="Australian Government Styl Manual">
+<meta property="og:site_name" content="Australian Government Styl Manual">
 <meta property="og:description" content="Inclusive design, open-source code and shared insights">
 <meta property="og:image" content="https://designsystem.gov.au/assets/favicons/designsystem.jpg">
 <meta property="og:url" content="https://designsystem.gov.au">
 
-<title>${ pagetitle } - Australian Government Design System</title>
+<title>${ pagetitle } - Australian Government Styl Manual</title>
 
 <link rel="stylesheet" href=${ _relativeURL( '/assets/css/example.css', _ID ) } />
 <link rel="stylesheet" href=${ _relativeURL( `/assets/css/a11y/a11y.css`, _ID ) } />
