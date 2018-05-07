@@ -10,10 +10,8 @@ navigation:
           link: /
         - text: Content types
           link: /content-types
-    - alignment: right
-      items:
-        - text: Github
-          link: https://github.com/govau/uikit/
-        - text: Download
-          link: /download
+        - text: Capitals
+          link: /capitals
+        - text: Numbers
+          link: /numbers
 ---

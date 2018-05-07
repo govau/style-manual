@@ -1,5 +1,5 @@
 layout: component/page
-pagetitle: content-types
+pagetitle: numbers
 headernav: false
 showheader: false
 
@@ -7,10 +7,9 @@ header:
   - /_shared/header.md
 
 sidebar:
-  - sidebar.md
 
 main:
-  - intro.md
+  - body.md
 
 footer:
   - /_shared/footer.md
