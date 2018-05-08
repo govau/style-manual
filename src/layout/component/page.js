@@ -54,12 +54,12 @@ const ComponentPage = ({
 <meta name="twitter:title" content="Australian Government Style Manual">
 <meta name="twitter:description" content="${ module !== '' ? `${ MODULE.description } - ` : '' }Australian Government Style Manual">
 <meta name="twitter:name" content="Australian Government Style Manual">
-<meta name="twitter:image" content="https://designsystem.gov.au/assets/favicons/designsystem.jpg">
+<meta name="twitter:image" content="/assets/img/sm-og-header.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Australian Government Style Manual">
 <meta property="og:site_name" content="Australian Government Style Manual">
 <meta property="og:description" content="${ module !== '' ? `${ MODULE.description } - ` : '' }Australian Government Style Manual">
-<meta property="og:image" content="https://designsystem.gov.au/assets/favicons/designsystem.jpg">
+<meta property="og:image" content="assets/img/sm-og-image.png">
 <meta property="og:url" content="https://designsystem.gov.au">
 
 <title>${ pagetitle } - Australian Government Style Manual</title>
@@ -85,7 +85,8 @@ const ComponentPage = ({
 					<main className="main au-body container-fluid">
 						<div className="row content-matchheight">
 							<div className="col-md-3 sidebar">
-								{ sidebar }
+								{/* { sidebar } */}
+								<img src="/assets/img/sm-og-header.png"/>
 							</div>
 							<div id="content" tabIndex="-1" className="col-md-9 content">
 								{

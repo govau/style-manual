@@ -1,7 +1,7 @@
 ---
 layout: home/intro
 title: Prototype
-# imgurl: assets/img/artwork-about.png
+imgurl: assets/img/sm-og-image.png
 # imgalt: designers and developers working together
 url: /content-types
 cta: Go to Content types

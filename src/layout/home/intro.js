@@ -12,9 +12,16 @@ const Intro = ({ title, url, imgalt, imgurl, _relativeURL, _ID, cta, _body }) =>
 
 			<div className="intro__img col-sm-12 col-md-6 col-md-push-6">
 				<div className="intro__imgpadding">
-					<img className="au-responsive-media-img"
-						src={ _relativeURL( imgurl , _ID ) }
-					alt={ imgalt } />
+				{(() => {
+					console.log('imgurl', imgurl)
+					if (imgurl !== '') {
+						console.log('imgurl', imgurl);
+						<img className="au-responsive-media-img"
+							src={ _relativeURL( imgurl , _ID ) }
+							alt={ imgalt } />
+					}
+				})()
+				}
 				</div>
 			</div>
 
@@ -39,7 +46,7 @@ Intro.propTypes = {
 	/**
 	 * imgurl: http://placehold.it/500x400
 	 */
-	imgurl: PropTypes.string.isRequired,
+	imgurl: PropTypes.string,
 
 	/**
 	 * imgalt: Intro Alt Tag

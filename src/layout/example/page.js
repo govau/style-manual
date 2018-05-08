@@ -31,12 +31,12 @@ const Example = ({ _ID, _relativeURL, pagetitle, example, alignment, fullwidth }
 <meta name="twitter:title" content="Australian Government Styl Manual">
 <meta name="twitter:description" content="Inclusive design, open-source code and shared insights">
 <meta name="twitter:name" content="Australian Government Styl Manual">
-<meta name="twitter:image" content="https://designsystem.gov.au/assets/favicons/designsystem.jpg">
+<meta name="twitter:image" content="assets/img/sm-og-image.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Australian Government Styl Manual">
 <meta property="og:site_name" content="Australian Government Styl Manual">
 <meta property="og:description" content="Inclusive design, open-source code and shared insights">
-<meta property="og:image" content="https://designsystem.gov.au/assets/favicons/designsystem.jpg">
+<meta property="og:image" content="assets/img/sm-og-image.png">
 <meta property="og:url" content="https://designsystem.gov.au">
 
 <title>${ pagetitle } - Australian Government Styl Manual</title>
