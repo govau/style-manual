@@ -4,14 +4,14 @@
 
 ## Using capitals for terms associated with government
 <br>
-<article class="sm-basic-contributor">
+<article class="sm-basic-breakoutbox">
     <div class="col-md-12">
         <h4>Co-developed with</h4>  
     </div>
-    <div class="col-md-3 contributor-logo">
+    <div class="col-md-3 breakoutbox-image">
         <img src="/assets/img/users-logo-dva.png">
     </div>
-    <div class="col-md-9 contributor-text">
+    <div class="col-md-9 breakoutbox-text">
         <p>The Prime Minister and Cabinet co-developed this content with the Digital Transformation Agency.</p>
     </div>
 </article>

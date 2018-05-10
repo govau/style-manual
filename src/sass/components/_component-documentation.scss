@@ -2,6 +2,10 @@
 	@include AU-space( margin-top, 5unit );
 }
 
+.au-body * + p {
+	margin-top: 1rem;
+}
+
 .componentdocumentation {
 	
 	.au-display-xxxl, 
@@ -37,7 +41,7 @@
 	}
 }
 
-.sm-basic-contributor {
+.sm-basic-breakoutbox {
 	position: relative;
 	display: inline-block;
 	border: 1px solid #5f5f5f;
@@ -53,16 +57,21 @@
 		font-size: 1em;
 	}
 
-	.contributor-logo {
+	.breakoutbox-image {
 		position: relative;
 
 		img {
 			position: absolute;
 			top: -3.5em;
 		}
+
+		&__blogpost {
+			top: 0;
+			padding: 0;
+		}
 	}
 
-	.contributor-text {
+	.breakoutbox-text {
 		padding-left: 3em;
 	}
 }

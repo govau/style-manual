@@ -41,6 +41,20 @@ Use words for:
 *25 people went to the launch*  
 </article>
 
+<br>
+<article class="sm-basic-breakoutbox">
+    <div class="col-md-3 breakoutbox-image__blogpost">
+        <img src="/assets/img/numbers-blog.png">
+    </div>
+    <div class="col-md-9 breakoutbox-text">
+        <h3><b>Further reading</b></h3>
+        <p>The Norman Nielsen Group’s Chief Research Officer, Dr John Smith says that numerals often stop the wandering eye and attract fixations, even when they're embedded within a mass of words that users otherwise ignore.</p>
+        <br>
+        <form action="/numbers-2/blog-post/"><button type="submit" value="" class="au-btn">read more</button></form>
+        <br>
+    </div>
+</article>
+
 ### How to apply the rule 
 #### Large numbers
 Abbreviate thousand, million, billion and trillion in headings, tables and graphics.

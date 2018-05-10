@@ -14,4 +14,6 @@ navigation:
           link: /capitals
         - text: Numbers
           link: /numbers
+        - text: Numbers 2
+          link: /numbers-2
 ---

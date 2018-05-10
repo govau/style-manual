@@ -72,6 +72,9 @@ const ComponentPage = ({
 <![endif]-->
 <script src=${ _relativeURL( '/assets/js/header.js', _ID ) }></script>`;
 
+sidebar = sidebar == undefined ? '' : `<img src="/assets/img/sm-og-header.png"/>`
+console.log('sidebar! :', sidebar)
+
 	return (
 		<html>
 		<head dangerouslySetInnerHTML={{ __html: headContent }} />
@@ -85,8 +88,7 @@ const ComponentPage = ({
 					<main className="main au-body container-fluid">
 						<div className="row content-matchheight">
 							<div className="col-md-3 sidebar">
-								{/* { sidebar } */}
-								<img src="/assets/img/sm-og-header.png"/>
+								{ sidebar }
 							</div>
 							<div id="content" tabIndex="-1" className="col-md-9 content">
 								{
