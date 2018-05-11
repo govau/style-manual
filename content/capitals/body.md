@@ -35,12 +35,17 @@ If not, use lower case.
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-The Australian Government is responsible for … The government proposes to … This government policy will … The policy will be reviewed by the Australian Government from time to time.  
-the Victorian Government … the government  
-the Australian and New Zealand governments  
-the governments of South Australia and Tasmania  
-Sanitation is the responsibility of local government.  
-It is the function of government to …  
+<p>The Australian Government is responsible for … The government proposes to … This government policy will … The policy will be reviewed by the Australian Government from time to time.</p>
+
+<p>the Victorian Government … the government</p>
+
+<p>the Australian and New Zealand governments</p>
+
+<p>the governments of South Australia and Tasmania</p>
+
+<p>Sanitation is the responsibility of local government.</p>
+
+<p>It is the function of government to …</p>
 </article>
 
 
@@ -53,9 +58,11 @@ If you are preparing content for  international audiences, be mindful that the w
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-Defence is a Commonwealth responsibility.  
-This question was debated at length in the Commonwealth Parliament.  
-under the Commonwealth Government’s external affairs powers.   
+<p>Defence is a Commonwealth responsibility.</p>
+
+<p>This question was debated at length in the Commonwealth Parliament.</p>
+
+<p>under the Commonwealth Government’s external affairs powers.</p>
 </article>
 
 #### Federal
@@ -67,9 +74,11 @@ Do not capitalise ‘federal government’, it is a broad, descriptive term for 
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-the Federal Court of Australia …the Federal Court … the court  
-a federal government initiative  
-Defence is a federal responsibility.  
+<p>the Federal Court of Australia …the Federal Court … the court</p>
+
+<p>a federal government initiative</p>
+
+<p>Defence is a federal responsibility.</p>
 </article>
 
 #### State and territory
@@ -81,8 +90,11 @@ In many contexts, ‘the Territory’ has become the conventional, semi-official
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-The Australian Capital Territory includes Jervis Bay. The territory’s total area is more than 2000 square kilometres.  
-The South Australian Government initiated the project … The state government will meet regularly to review progress.  
-Responsibility has been delegated to the states and territories.  
-… under federal–state arrangements.  
+<p>The Australian Capital Territory includes Jervis Bay. The territory’s total area is more than 2000 square kilometres.</p>
+
+<p>The South Australian Government initiated the project … The state government will meet regularly to review progress.</p>
+
+<p>Responsibility has been delegated to the states and territories.</p>
+
+<p>… under federal–state arrangements.</p>
 </article>
