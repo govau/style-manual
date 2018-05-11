@@ -1,19 +1,20 @@
+---
+
+---
+
 ## Numbers and measurements 
 
 <br>
 <article class="sm-basic-breakoutbox">
     <div class="col-md-12">
-        <h4>Co-developed with</h4>  
-    </div>
-    <div class="col-md-3 breakoutbox-image">
-        <img src="/assets/img/users-logo-dva.png">
-    </div>
-    <div class="col-md-9 breakoutbox-text">
-        <p>This content is co-created by the Normal Nielsen Group. Last updated May 2018.</p>
+        <h4>Co-created with</h4>
+        <p>The Normal Nielsen Group</p>
+        <h4>Last updated</h4>
+        <p>May 2018</p>
     </div>
 </article>
 
-### _The rule_
+### The rule
 Use digits instead of words for most numbers. This makes numbers easier to read on a screen.
 
 Use words for:
@@ -41,7 +42,7 @@ Use words for:
 *25 people went to the launch*  
 </article>
 
-<br>
+<!-- <br>
 <article class="sm-basic-breakoutbox">
     <div class="col-md-3 breakoutbox-image__blogpost">
         <img src="/assets/img/numbers-blog.png">
@@ -53,7 +54,7 @@ Use words for:
         <form action="/numbers-2/blog-post/"><button type="submit" value="" class="au-btn">read more</button></form>
         <br>
     </div>
-</article>
+</article> -->
 
 ### How to apply the rule 
 #### Large numbers

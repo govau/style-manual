@@ -29,51 +29,74 @@ const ComponentPage = ({
 	pagetitle,
 	main,
 	footer,
+	rightCol,
 	module = ''
 }) => {
 
 	const MODULE = '';
 
 	const headContent = `
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-<link rel="apple-touch-icon" sizes="180x180" href=${ _relativeURL('/assets/favicons/apple-touch-icon.png', _ID ) }>
-<link rel="icon" type="image/png" sizes="32x32" href=${ _relativeURL('/assets/favicons/favicon-32x32.png', _ID ) }>
-<link rel="icon" type="image/png" sizes="16x16" href=${ _relativeURL('/assets/favicons/favicon-16x16.png', _ID ) }>
-<link rel="manifest" href=${ _relativeURL('/assets/favicons/site.webmanifest', _ID ) }>
-<link rel="mask-icon" href=${ _relativeURL('/assets/favicons/safari-pinned-tab.svg', _ID ) } color="#06262d">
-<link rel="shortcut icon" href=${ _relativeURL('/assets/favicons/favicon.ico', _ID ) }>
-<meta name="msapplication-config" content=${ _relativeURL('/assets/favicons/browserconfig.xml', _ID ) }>
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="theme-color" content="#ffffff">
-<meta name="robots" content="index, follow">
-<meta name="author" content="Digital Transformation Agency">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Australian Government Style Manual">
-<meta name="twitter:description" content="${ module !== '' ? `${ MODULE.description } - ` : '' }Australian Government Style Manual">
-<meta name="twitter:name" content="Australian Government Style Manual">
-<meta name="twitter:image" content="/assets/img/sm-og-header.png">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Australian Government Style Manual">
-<meta property="og:site_name" content="Australian Government Style Manual">
-<meta property="og:description" content="${ module !== '' ? `${ MODULE.description } - ` : '' }Australian Government Style Manual">
-<meta property="og:image" content="assets/img/sm-og-image.png">
-<meta property="og:url" content="https://designsystem.gov.au">
+	<link rel="apple-touch-icon" sizes="180x180" href=${ _relativeURL('/assets/favicons/apple-touch-icon.png', _ID ) }>
+	<link rel="icon" type="image/png" sizes="32x32" href=${ _relativeURL('/assets/favicons/favicon-32x32.png', _ID ) }>
+	<link rel="icon" type="image/png" sizes="16x16" href=${ _relativeURL('/assets/favicons/favicon-16x16.png', _ID ) }>
+	<link rel="manifest" href=${ _relativeURL('/assets/favicons/site.webmanifest', _ID ) }>
+	<link rel="mask-icon" href=${ _relativeURL('/assets/favicons/safari-pinned-tab.svg', _ID ) } color="#06262d">
+	<link rel="shortcut icon" href=${ _relativeURL('/assets/favicons/favicon.ico', _ID ) }>
+	<meta name="msapplication-config" content=${ _relativeURL('/assets/favicons/browserconfig.xml', _ID ) }>
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="robots" content="index, follow">
+	<meta name="author" content="Digital Transformation Agency">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Australian Government Style Manual">
+	<meta name="twitter:description" content="${ module !== '' ? `${ MODULE.description } - ` : '' }Australian Government Style Manual">
+	<meta name="twitter:name" content="Australian Government Style Manual">
+	<meta name="twitter:image" content="/assets/img/sm-og-header.png">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Australian Government Style Manual">
+	<meta property="og:site_name" content="Australian Government Style Manual">
+	<meta property="og:description" content="${ module !== '' ? `${ MODULE.description } - ` : '' }Australian Government Style Manual">
+	<meta property="og:image" content="assets/img/sm-og-image.png">
+	<meta property="og:url" content="https://designsystem.gov.au">
 
-<title>${ pagetitle } - Australian Government Style Manual</title>
+	<title>${ pagetitle } - Australian Government Style Manual</title>
 
-<link rel="stylesheet" href=${ _relativeURL( '/assets/css/style.css', _ID ) }>
+	<link rel="stylesheet" href=${ _relativeURL( '/assets/css/style.css', _ID ) }>
 
-<!--[if lte IE 9]>
-	<script src="${ _relativeURL( '/assets/js/html5shiv.js', _ID ) }"></script>
-	<script src="${ _relativeURL( '/assets/js/respond.js', _ID ) }"></script>
-<![endif]-->
-<script src=${ _relativeURL( '/assets/js/header.js', _ID ) }></script>`;
+	<!--[if lte IE 9]>
+		<script src="${ _relativeURL( '/assets/js/html5shiv.js', _ID ) }"></script>
+		<script src="${ _relativeURL( '/assets/js/respond.js', _ID ) }"></script>
+	<![endif]-->
+	<script src=${ _relativeURL( '/assets/js/header.js', _ID ) }></script>`;
 
-sidebar = sidebar == undefined ? '' : `<img src="/assets/img/sm-og-header.png"/>`
-console.log('sidebar! :', sidebar)
+	sidebar = sidebar == undefined ? '' : `<img src="/assets/img/sm-og-header.png"/>`
+
+	let rightColumn = (rightCol) => {
+		if (rightCol) {
+			return (
+				<div className="right-column__module">
+					<div className="col-md-9 right-column__module--header">
+						<h4 class="right-column__module--h4">Why?</h4>
+					</div>
+					<div className="col-md-3 right-column__module--emoji">
+						<img src="/assets/img/think-face.png"/>
+					</div>
+					<div class="col-md-12 right-column__module--body">
+						<p><a href="/numbers-2/blog-post/">Why it's easier to read numbers on screen</a></p>
+						<p>Norman Nielson Group tells us the science behind why it’s easier to read numbers on screen.<br/><br/>
+						‘It's a more compact representation of hard information than flowery verbiage,’ said Dr Smith. 
+						</p>
+					</div>
+				</div>
+			)
+		} else {
+			return null
+		}
+	}
 
 	return (
 		<html>
@@ -90,7 +113,7 @@ console.log('sidebar! :', sidebar)
 							<div className="col-md-3 sidebar">
 								{ sidebar }
 							</div>
-							<div id="content" tabIndex="-1" className="col-md-9 content">
+							<div id="content" tabIndex="-1" className="col-md-6 content">
 								{
 									showheader &&
 									<Fragment>
@@ -119,10 +142,12 @@ console.log('sidebar! :', sidebar)
 									showheader && <ComponentFooter _ID={ _ID } _parseYaml={ _parseYaml } _relativeURL={ _relativeURL } _pages={ _pages } _parents= { _parents } />
 								}
 							</div>
+							<div class="col-md-3 right-column">
+								{ rightColumn(rightCol) }
+							</div>
 						</div>
 					</main>
 				</div>
-
 				{ footer }
 			</div>
 			{

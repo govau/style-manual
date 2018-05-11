@@ -3,26 +3,24 @@
 ---
 
 ## Using capitals for terms associated with government
+
 <br>
 <article class="sm-basic-breakoutbox">
     <div class="col-md-12">
-        <h4>Co-developed with</h4>  
-    </div>
-    <div class="col-md-3 breakoutbox-image">
-        <img src="/assets/img/users-logo-dva.png">
-    </div>
-    <div class="col-md-9 breakoutbox-text">
-        <p>The Prime Minister and Cabinet co-developed this content with the Digital Transformation Agency.</p>
+        <h4>Co-created with</h4>
+        <p>The Prime Minister and Cabinet</p>
+        <h4>Last updated</h4>
+        <p>May 2018</p>
     </div>
 </article>
 
-### *The rule*
+### The rule
 
 Generally, terms associated with government should capitalise the full, official name and the abbreviation of that name when it retains specific elements, but use lowercase when the abbreviation is reduced to the generic element. 
 
 Similarly, when these terms are used generically and are not directly related to a specific name or title, and when they are in the plural or used adjectivally, they should not be capitalised. 
 
-### Guidance of use of the term ‘Government’ 
+### How to apply the rule
 
 The word government should be capitalised as part of a formal title or abbreviated specific title, but lower case is generally appropriate elsewhere.
 

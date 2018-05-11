@@ -6,6 +6,10 @@
 	margin-top: 1rem;
 }
 
+#content.col-md-6.content {
+	padding: 2em 0;
+}
+
 .componentdocumentation {
 	
 	.au-display-xxxl, 
@@ -46,16 +50,18 @@
 	display: inline-block;
 	border: 1px solid #5f5f5f;
 	background: #efefef;
-	padding: 1em 2em;
-	max-width: 42rem;
+	padding: 1em;
+	width: 100%;
 	box-sizing: border-box;
 	min-height: 10em;
 
 	div > h4 {
 		margin-bottom: 1em;
-		font-weight: 600;
-		font-size: 1em;
+		font-weight: 800;
+		font-size: 0.75em;
 	}
+
+	div > p {}
 
 	.breakoutbox-image {
 		position: relative;
@@ -73,5 +79,43 @@
 
 	.breakoutbox-text {
 		padding-left: 3em;
+	}
+}
+
+.right-column__module {
+	position: relative;
+	top: 14em;
+	padding-left: 1em;
+}
+
+div.col-md-9.right-column__module--header {
+	// background: tomato;
+	height: 2em;
+	padding-left: 0;
+
+	h4.right-column__module--h4 {
+		font-weight: 600;
+		font-size: 1em;
+	}
+}
+
+div.col-md-3.right-column__module--emoji {
+	padding-right: 0;
+	height: 2em;
+
+	img {
+		top: -0.5em;
+		position: relative;
+		height: 2.5em;
+		float: right;
+	}
+}
+
+div.col-md-12.right-column__module--body {
+	border-top: 3px solid #5f5f5f;
+	padding: 1em 0;
+
+	p {
+		font-size: 0.75em;
 	}
 }

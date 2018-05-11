@@ -4,7 +4,7 @@ headernav: false
 showheader: false
 
 header:
-  - /_shared/header.md
+  - /_shared/header-sans-menu.md
 
 # sidebar:
 
