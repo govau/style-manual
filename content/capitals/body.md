@@ -2,7 +2,7 @@
 # layout: 
 ---
 
-## Using capitals for terms associated with government
+## Using capitals for government terms
 
 <br>
 <article class="sm-basic-breakoutbox --attribution">
@@ -23,7 +23,6 @@ Use lower case if the use of the term is:
 - not directly related to a specific name or title
 - used in plural form 
 - used as an adjective.
-
 
 ### How to apply the rules
 
@@ -47,7 +46,7 @@ It is the function of government to …
 
 #### Commonwealth
 
-As a federation, Australia is known as the Commonwealth of Australia. The primary governing body is the Commonwealth Parliament. Capitalise Commonwealth in this context.. 
+As a federation, Australia is known as the Commonwealth of Australia. The primary governing body is the Commonwealth Parliament. Capitalise Commonwealth in this context.
 
 If you are preparing content for  international audiences, be mindful that the word ‘Commonwealth’ is associated with the Commonwealth of Nations (formerly the British Empire). If you think it may cause confusion, use the word ‘Australian’ instead of ‘Commonwealth’.
 
