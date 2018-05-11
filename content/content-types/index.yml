@@ -6,8 +6,7 @@ showheader: false
 header:
   - /_shared/header.md
 
-sidebar:
-  - sidebar.md
+rightCol: false
 
 main:
   - intro.md

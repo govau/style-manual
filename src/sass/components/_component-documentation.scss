@@ -80,6 +80,10 @@
 	.breakoutbox-text {
 		padding-left: 3em;
 	}
+
+	&.--attribution {
+		border: none;
+	}
 }
 
 .right-column__module {
