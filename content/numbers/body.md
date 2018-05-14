@@ -11,7 +11,7 @@
 </article>
 
 ## The rule
-Use digits instead of words for most numbers. This makes numbers easier to read on a screen.
+Use digits instead of words for most numbers. Digits are easier to read on a screen.
 
 Use words for:
 - common expressions where digits would look strange — for example, ‘one or two of them’
@@ -21,7 +21,7 @@ Use words for:
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-1 to 9 — not one to nine  
+1 to 9  
 one or two of them  
 10 to 9999  
 10,000 to 1 million  
@@ -87,7 +87,7 @@ Not this: Nineteenth century
 <br/>
 
 ### Time and date ranges
-Use ‘to’ in time and date ranges — not hyphens or en dashes.
+Use ‘to’ in time and date ranges. Do not use en dashes.
 
 <br>
 <article class="sm-basic-example">
@@ -113,14 +113,11 @@ Use spaces to help people read phone numbers.
 13 13 13 — 6 digit numbers  
 </article>
 
-<br/>
-
-### Link phone numbers
 Use a link to allow users on a mobile device to call phone numbers.
 
 Use `tel:[phone number]` as the URL. Remove spaces between the numbers.
 
-Remember all web pages can be accessed internationally. Include the international dialling prefix if appropriate.
+Remember all web pages can be accessed internationally. Include the international dialling prefix, if appropriate.
 
 <br>
 <article class="sm-basic-example">
