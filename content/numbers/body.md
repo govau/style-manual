@@ -62,7 +62,7 @@ Use digits at the beginning of a line, bulleted item or sentence.
 We are cataloging the collection. 19th century works of art are the focus.
 </article>
 
-#### Punctuating dates 
+### Punctuating dates 
 Don’t punctuate dates.
 
 <br>
