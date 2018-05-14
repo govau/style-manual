@@ -1,4 +1,4 @@
-## Numbers and measurements 
+# Numbers and measurements 
 
 <br>
 <article class="sm-basic-breakoutbox --attribution">
@@ -10,7 +10,7 @@
     </div>
 </article>
 
-### The rule
+## The rule
 Use digits instead of words for most numbers. This makes numbers easier to read on a screen.
 
 Use words for:
@@ -52,8 +52,8 @@ Section 10
     </div>
 </article> -->
 
-### How to apply the rule 
-#### Large numbers
+## How to apply the rule 
+### Large numbers
 Abbreviate thousand, million, billion and trillion in headings, tables and graphics.
 
 <br>
@@ -65,7 +65,9 @@ Abbreviate thousand, million, billion and trillion in headings, tables and graph
 4tn  
 </article>
 
-#### Numbers at the start of a sentence or bulleted item
+<br/>
+
+### Numbers at the start of a sentence or bulleted item
 Use digits at the beginning of a line, bulleted item or sentence.
 
 <br>
@@ -74,7 +76,9 @@ Use digits at the beginning of a line, bulleted item or sentence.
 We are cataloging the collection. 19th century works of art are the focus.
 </article>
 
-#### Punctuating dates 
+<br/>
+
+### Punctuating dates 
 Don’t punctuate dates.
 
 <br>
@@ -84,7 +88,9 @@ Like this: Tuesday 8 October 2016
 Not this: 8th October, 2016  
 </article>
 
-#### Date periods
+<br/>
+
+### Date periods
 Use digits for date periods.
 
 <br>
@@ -94,7 +100,9 @@ Like this: 19th century
 Not this: Nineteenth century  
 </article>
 
-#### Time and date ranges
+<br/>
+
+### Time and date ranges
 Use ‘to’ in time and date ranges — not hyphens or en dashes.
 
 <br>
@@ -105,7 +113,9 @@ This will take 10 to 15 minutes.
 We published the annual report for the 2015 to 2016 financial year.  
 </article>
 
-#### Phone numbers
+<br/>
+
+### Phone numbers
 Use spaces to help people read phone numbers.
 
 <br>
@@ -119,7 +129,9 @@ Use spaces to help people read phone numbers.
 13 13 13 — 6 digit numbers  
 </article>
 
-#### Link phone numbers
+<br/>
+
+### Link phone numbers
 Use a link to allow users on a mobile device to call phone numbers.
 
 Use `tel:[phone number]` as the URL. Remove spaces between the numbers.

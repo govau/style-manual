@@ -2,7 +2,7 @@
 # layout: 
 ---
 
-## Using capitals for government terms
+# Using capitals for <br/> government terms
 
 <br>
 <article class="sm-basic-breakoutbox --attribution">
@@ -14,7 +14,7 @@
     </div>
 </article>
 
-### The rule
+## The rule
 
 Use capitals for official names and abbreviations (proper nouns).
 
@@ -24,9 +24,9 @@ Use lower case if the use of the term is:
 - used in plural form 
 - used as an adjective.
 
-### How to apply the rules
+## How to apply the rules
 
-#### Government 
+### Government 
 
 Capitalise the word government if you are using it as part of a formal title or abbreviated specific title.  
 
@@ -48,8 +48,9 @@ If not, use lower case.
 <p>It is the function of government to …</p>
 </article>
 
+<br/>
 
-#### Commonwealth
+### Commonwealth
 
 As a federation, Australia is known as the Commonwealth of Australia. The primary governing body is the Commonwealth Parliament. Capitalise Commonwealth in this context.
 
@@ -65,7 +66,9 @@ If you are preparing content for  international audiences, be mindful that the w
 <p>under the Commonwealth Government’s external affairs powers.</p>
 </article>
 
-#### Federal
+<br/>
+
+### Federal
 
 Capitalise the term ‘federal’ if forms part of an official title.
 
@@ -81,7 +84,9 @@ Do not capitalise ‘federal government’, it is a broad, descriptive term for 
 <p>Defence is a federal responsibility.</p>
 </article>
 
-#### State and territory
+<br/>
+
+### State and territory
 
 Use capitals for official or abbreviated specific titles but not for generic or plural references. 
 
