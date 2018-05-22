@@ -16,4 +16,6 @@ navigation:
           link: /numbers
         - text: Numbers 2
           link: /numbers-2
+        - text: Accessibility & inclusivity
+          link: /accessibility-inclusivity
 ---
