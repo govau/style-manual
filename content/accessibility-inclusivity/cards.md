@@ -1,19 +1,15 @@
 ---
 layout: cards/cards
 cards:
-  - image: http://via.placeholder.com/350x150
-    headline: Agile delivery
-    text: 'How to work in an agile way: principles.'
+  - headline: Choose accessible formats
+    text: 'How to choose the most useful format for the user.'
     link: '#url'
-  - headline: Agile delivery
-    text: 'How to work in an agile way: principles, tools and governance.'
+  - headline: Structure the content around user needs
+    text: 'How to make it easy for the user to find what they need.'
     link: '#url'
-    cta: Read the case study
-  - image: http://via.placeholder.com/350x150
-    headline: Agile delivery
-    text: 'How to work in an agile way: principles, tools and governance. And way more things'
+  - headline: Write for everyone
+    text: 'How to write inclusive and accessible content.'
     link: '#url'
-    cta: Check it out
 ---
 
-### testing cards.md 2
+  

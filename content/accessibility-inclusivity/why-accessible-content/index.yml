@@ -1,5 +1,5 @@
 layout: component/page
-pagetitle: Accessibility and Inclusivity
+pagetitle: Why accessibile?
 headernav: false
 showheader: false
 
@@ -10,7 +10,6 @@ rightCol: ''
 
 main:
   - body.md
-  - cards.md
 
 footer:
   - /_shared/footer.md

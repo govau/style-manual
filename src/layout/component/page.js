@@ -76,20 +76,19 @@ const ComponentPage = ({
 	sidebar = sidebar == undefined ? '' : `<img src="/assets/img/sm-og-header.png"/>`
 
 	let rightColumn = (rightCol) => {
+		let rightColImg = rightCol.imgSrc ? <img src={ rightCol.imgSrc }/> : ''
+
 		if (rightCol) {
 			return (
 				<div className="right-column__module">
 					<div className="col-md-9 right-column__module--header">
-						<h4 class="right-column__module--h4">Why?</h4>
+						<h4 class="right-column__module--h4">{ rightCol.title }</h4>
 					</div>
 					<div className="col-md-3 right-column__module--emoji">
-						<img src="/assets/img/think-face.png"/>
+						{ rightColImg }
 					</div>
 					<div class="col-md-12 right-column__module--body">
-						<p><a href="/numbers-2/blog-post/">Why it's easier to read numbers on screen</a></p>
-						<p>Norman Nielson Group tells us the science behind why it’s easier to read numbers on screen.<br/><br/>
-						‘It's a more compact representation of hard information than flowery verbiage,’ said Dr Smith. 
-						</p>
+						{ rightCol.main }
 					</div>
 				</div>
 			)

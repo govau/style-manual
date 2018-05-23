@@ -1,7 +1,15 @@
 # Create content for everyone
 
-Understand the diversity of your audience. Write content that all users can read and understand.
+<p class="componentheader__body abstract">
+It is a government requirement to make information and services accessible and inclusive for all Australians.
+<br/><br/>
+Learn how to design content so that everyone can use it.
+</p>
 
-## How to create content for everyone
+## Why create inclusive and accessible content?
 
-In the [Content Guide](#) you can discover why it's necessary to create content for everyone.
+Find out about Australia’s diverse needs and your compliance obligations.
+
+<a class="au-cta-link" href="why-accessible-content/">Find out why</a>
+
+## Where to begin

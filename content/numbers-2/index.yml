@@ -6,7 +6,10 @@ showheader: false
 header:
   - /_shared/header-sans-menu.md
 
-rightCol: true
+rightCol: 
+  title: 'Why?'
+  imgSrc: '/assets/img/think-face.png'
+  main: right-col.md
 
 main:
   - body.md
