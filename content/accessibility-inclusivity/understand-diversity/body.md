@@ -12,7 +12,7 @@ Key facts to help you understand and meet all your users’ needs.
 - 19% of Australians speak a language other than English at home.
 - 60% of Australia’s population growth in 2013 was from overseas migration.
 
-### Sources:
+__Sources:__
 
 - [Reflecting a Nation: Stories from the 2011 Census, 2012–2013](#), [Estimates of Aboriginal and Torres Strait Islander Australians, June 2011](#) and [ABS.Stat - Language Spoken at Home by Sex](#) contain statistics that show Australia’s diversity.
 - [Australian Demographic Statistics, Mar 2013](#) contains statistics about migration to Australia.
@@ -37,7 +37,7 @@ Numeracy levels for Australians aged 15 to 74 years:
 - 32% at level 3
 - 13% at level 4 to 5 (the highest level)
 
-### Sources:
+__Sources:__
 
 - [Disability, Ageing and Carers, Australia: First Results, 2015](#) contains statistics about disability in Australia.
 - [Programme for the International Assessment of Adult Competencies, Australia, 2011-2012](#) contains statistics about Australia’s literacy and numeracy levels.
@@ -47,7 +47,9 @@ Numeracy levels for Australians aged 15 to 74 years:
 - 14% of Australia’s population is over 65. It will rise to 18% by 2061. 
 - 420,300 Australians are aged 85 years or over. It will rise to 3.5 million people by 2069. 
 
-Source: [Population Projections, Australia, 2012 (base) to 2101](#).
+__Source:__
+
+[Population Projections, Australia, 2012 (base) to 2101](#).
 
 ## Many Australians use assistive technologies and adaptive strategies
 
@@ -63,7 +65,3 @@ People use screen readers to navigate and understand web pages through a combina
 
 - reading the content of the web page in a linear order
 - moving around the page through headings, links and form elements
-
-[More resources component] 
-
-Read the [W3C’s guide to how people with disabilities use the web](#).

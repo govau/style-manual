@@ -6,7 +6,15 @@ showheader: false
 header:
   - /_shared/header-sans-menu.md
 
-rightCol: ''
+rightcol:
+  - right-column/component-1.md
+  - right-column/component-2.md
+  # - right-column/component-3.md
+  # - right-column/component-4.md
+  # - right-column/component-5.md
+  # - right-column/component-6.md
+  # - right-column/component-7.md
+  # - right-column/component-8.md
 
 main:
   - body.md

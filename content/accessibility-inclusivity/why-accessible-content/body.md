@@ -55,10 +55,6 @@ The Commission investigates and resolves complaints of discrimination based on a
 
 The Commission reports on Australia’s progress against the United Nations Convention on the Rights of People with Disability on a regular basis.
 
-__[More resources component]__
-
-To find out how to avoid discrimination read the Australian Human Rights Commission [World Wide Web Access](#): [Disability Discrimination Act Advisory Notes](#).
-
 <h2 id="section3" class="au-display-xl">
   Digital Service Standard (the Standard)
 </h2>
@@ -70,7 +66,3 @@ Government services must be available to users regardless of their location and 
 To meet the Standard, you need to meet level AA of the [Web Content Accessibility Guidelines 2.0 (WCAG 2.0)](#). 
 
 There are 38 criteria that apply at level AA. We also recommend some of the level AAA criteria. Content authors are typically  responsible for 17 criteria (outlined in our guidance).
-
-__[more resources component]__
-
-WCAG 2.1 is expected to be released mid 2018 and will include  more cognitive impairment and low-vision issues. Read the [working draft of WCAG 2.1](#). 

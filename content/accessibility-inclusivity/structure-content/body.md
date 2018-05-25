@@ -55,7 +55,6 @@ Use only 1 top level (H1) heading.
 
 Complies with WCAG criteria 2.4.6 (Level AA), 2.4.10 (Level AAA) and 3.3.2 (Level A
 
-
 Users lose track if there are too many heading levels.
 
 Break up blocks of text and draw the reader in with short interesting headings.
@@ -64,9 +63,10 @@ Help the user to understand the relationship between sections of text.
 
 Short content should only use 2 subheading levels (H2 and H3).
 
-#### Why 
+<p class="au-callout">
 On the average Web page, users have time to read at most 28% of the words during an average visit; 20% is more likely.
-Nielsen Norman Group, 2008 
+Nielsen Norman Group, 2008
+</p>
 
 ### Front load keywords in headings
 

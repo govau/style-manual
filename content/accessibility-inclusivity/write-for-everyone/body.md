@@ -1,7 +1,7 @@
 # Write for everyone
 
 <p class="componentheader__body abstract">
-Government content needs to communicate in a way that anyone understand. 
+Learn how to create government content that everyone can understand.
 </p>
 
 <nav class="au-inpage-nav-links">
@@ -17,9 +17,9 @@ Government content needs to communicate in a way that anyone understand.
   </ul>
 </nav>
 
-<h2 id="section1" class="au-inpage-nav-section au-display-xl">
+<!-- <h2 id="section1" class="au-inpage-nav-section au-display-xl">
   Why write for everyone
-</h2>
+</h2> -->
 
 Clear writing and using common words (plain English) helps everyone to understand, regardless of their ability, including:
 
@@ -28,7 +28,7 @@ Clear writing and using common words (plain English) helps everyone to understan
 - people of culturally and linguistically diverse backgrounds
 - specialist and technical audiences
 
-Using plain English doesn’t mean ‘dumbing down’ information. Plain English helps people make decisions and builds trust. It’s also easier to translate. 
+Using plain English doesn’t mean ‘dumbing down’ information. If you’re writing for a specialist audience or multiple audiences, you still need to make sure everyone can understand what the content is about. Plain English helps people make decisions and builds trust. It’s also easier to translate. 
 
 <h2 id="section2" class="au-inpage-nav-section au-display-xl">
   Write for your audience
@@ -40,9 +40,6 @@ To understand your audience you should research:
 - behaviour — what the user is interested in or worried about, so your writing will  answer their questions
 - vocabulary — so that you can use the same terms and phrases they will use to search for information
 
-If you’re writing for a specialist audience or multiple audiences, you still need to make sure everyone can understand what the content is about.
-
-Write in plain English so everyone can understand, regardless of their ability.
 
 <h2 id="section3" class="au-display-xl">
   Government tone
@@ -83,7 +80,7 @@ Passive voice usually makes it difficult to know who did what to whom and sends 
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-Like this:  
+Do this:  
 The committee (subject) campaigned (verb) to lower diabetes (object).  
 We (subject) did not accept (verb) your application (object).  
 <br/><br/>
@@ -111,7 +108,7 @@ Avoid third person nouns (Australian Government Department of X) and pronouns (h
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-Like this:  
+Do this:  
 Tell us if you have trouble with your account.  
 <br/><br/>
 Not this:  
@@ -125,7 +122,7 @@ Rewrite the sentence to avoid using gender-specific singular pronouns (he/she, h
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-Use this:  
+Do this:  
 Submit your employment declaration.
 <br/><br/>
 Not this:  
@@ -140,14 +137,10 @@ Avoid discriminatory language that treats some people differently from others.
 
 18.3% of Australians live with a disability affecting their daily activities. 
 <br><br>
-14% of Australia’s population is over 65. It will rise to 18% by 2061. 
-<br><br>
 More than half of Australians aged 65 and over live with disability. 
 <br><br>
 420,300 Australians are aged 85 years or over. It will rise to 3.5 million people by 2069.
 </p>
-
-__Source__
 
 Speak to the person in plain English without jargon. This avoids getting caught up in semantics and is respectful of:
 - disability
@@ -171,10 +164,13 @@ Make sure your content can be understood by someone who speaks English as a seco
 
 <p class="au-callout">
 
-- 27% of Australia’s 22 million people were born overseas.  
-- 46% of Australians have at least 1 parent who was born overseas.  
-- 19% of Australians speak a language other than English at home.  
-- 60% of Australia’s population growth in 2013 was from overseas migration.  
+27% of Australia’s 22 million people were born overseas.  
+<br>
+46% of Australians have at least 1 parent who was born overseas.  
+<br>
+19% of Australians speak a language other than English at home.  
+<br>
+60% of Australia’s population growth in 2013 was from overseas migration.  
 </p>
 
 Find out if there is a user need to provide the content in other community languages.This can be important if there are compliance requirements or health and safety issues.
@@ -183,7 +179,7 @@ Research with users to find out which languages they need to read the informatio
 
 ### Plain English is easier to translate
 
-Write the content in Plain English first. This makes it easier to translate, and to read when translated.
+Write the content in plain English first. This makes it easier to translate, and to read when translated.
 
 Content should also be culturally sensitive to people who come from different cultures and may have different expectations of dealing with government.
 
@@ -291,5 +287,3 @@ Make sure of the context and relevance before using First Australian cultural te
     <li>Traditional Owners or Traditional Custodians</li>
   </ul>
 </article>
-
-Find out the media Consumption and Communication Preferences of Aboriginal and Torres Strait Islander Audiences from the Department of Finance.
