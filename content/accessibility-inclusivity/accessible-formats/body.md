@@ -2,15 +2,15 @@
 
 <p class="componentheader__body abstract">
 Plan to create accessible content from the start, whether you’re writing a policy, publishing a news story, making a video or guiding users through a transaction.
-<br/><br/>
+</p>
+
 Everyone involved from creation through to publishing is responsible for ensuring accessibility. Senior executives, managers, subject matter experts, online content experts and publishing teams each play a role and should know the risks of not complying.
 
-</p>
 
 <nav class="au-inpage-nav-links">
   <h2 class="au-inpage-nav-links__heading">Contents</h2>
   <ul class="au-link-list">
-    <li><a href="#section1">HTML is the default format for all government information</a></li>
+    <li><a href="#section1">Use HTML as the default</a></li>
     <li><a href="#section2">Push back on PDFs</a></li>
     <li><a href="#section3">Create accessible images</a></li>
     <li><a href="#section4">Create accessible videos</a></li>
@@ -56,8 +56,8 @@ Use the link to tell your users that they are downloading a PDF and how big it i
 <br>
 <article class="sm-basic-example">
 <h4>Examples</h4>
-Sustainable farming
 Sustainable Farming Guide 472KB PDF
+<br>
 The Sustainable Farming Guide tells you how to …
 Email digital@digital.gov.au to ask for this guide in a different format
 </article>
@@ -162,8 +162,6 @@ Video is not just difficult for users with visual impairment. Think about:
 #### Create a transcript
 
 All videos must have transcripts for people who don’t want to watch the video, and for search engine indexing. 
-
-Complies with WCAG criteria 1.2.1 (Level A)
 
 Add the HTML transcript to the same page as the video. Or add a link below or beside the video to a page with the transcript.
 

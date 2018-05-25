@@ -40,8 +40,6 @@ The user should be able to get an understanding of the content by scanning the h
 
 ### Make the title short and accurate
 
-__Complies with WCAG criteria 2.4.2 (Level A)__
-
 Write a clear title and lead summary. Tell the user what the page is about and who it’s for.
 Headings are the first words users read to check the relevance of content before they commit to reading it.
 
@@ -52,8 +50,6 @@ Google searches only show 55 characters of the page title.
 Use only 1 top level (H1) heading.
 
 ### Break up content with subheadings
-
-__Complies with WCAG criteria 2.4.6 (Level AA), 2.4.10 (Level AAA) and 3.3.2 (Level A)__
 
 Users lose track if there are too many heading levels.
 
@@ -99,8 +95,6 @@ More information
 </h2>
 
 Use precise link text
-
-__Complies with AG criteria 2.4.4 (Level AA) and 2.4.9 (Level AAA)__
 
 Make the destination of the link clear.
 
