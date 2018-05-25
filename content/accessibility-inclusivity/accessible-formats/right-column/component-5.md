@@ -2,9 +2,9 @@
 layout: component/right-col
 title: 'More resources'
 imgSrc: ''
-space: '196em'
+space: '82em'
 altClass: 'more-resources'
 ---
 
-Read guidance on [inclusive language from the Australian Network on Disability](#). Read examples of how to talk about disability from People With Disabilities Australia.
+Different types of images have different alt text requirements. You can use an [alt text decision tree](#) to help you work out what kind of alt text you need.
 

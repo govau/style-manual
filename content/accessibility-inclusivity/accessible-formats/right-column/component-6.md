@@ -2,9 +2,9 @@
 layout: component/right-col
 title: 'More resources'
 imgSrc: ''
-space: '243em'
+space: '265em'
 altClass: 'more-resources'
 ---
 
-Use the [Multicultural access and equity resources for Government agencies](#) from the Department of Home Affairs.
+Read [W3C’s complex images tutorial](#) for different approaches and examples to help you .
 

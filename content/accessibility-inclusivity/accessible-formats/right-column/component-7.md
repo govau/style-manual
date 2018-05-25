@@ -1,9 +1,9 @@
 ---
 layout: component/right-col
-title: 'More resources'
+title: 'Complies with WCAG'
 imgSrc: ''
-space: '307em'
-altClass: 'more-resources'
+space: '296em'
+altClass: 'dark-block'
 ---
 
-The [Australian Indigenous Languages Database](#) from AIATSIS may help you identify the appropriate local language.
+[criteria 1.2.1 (Level A)](#)

@@ -59,7 +59,7 @@
 	div > h4 {
 		margin-bottom: 1em;
 		font-weight: 800;
-		font-size: 0.75em;
+		font-size: 1em;
 	}
 
 	div > p {}
@@ -96,6 +96,7 @@
 
 	&.more-resources {
 		color: #636363;
+		font-size: 1em;
 
 		h4.right-column__module--h4 {
 			font-weight: 400;
@@ -104,6 +105,19 @@
 		.right-column__module--body {
 			border-top: 1px solid #808080;
 			padding: 1em 0;
+
+			ul {
+				font-size: 1em;
+				padding-left: 1.5em;
+			} 
+			
+			li {
+				font-size: 1em;
+			} 
+			
+			a {
+				font-size: 1em;
+			}
 		}
 	}
 
@@ -123,6 +137,10 @@
 		color: #fff;
 		padding: 1em 1.5em;
 		border-radius: 5px;
+
+		a {
+			color: #45C2F0;
+		}
 
 		.right-column__module--header {
 			padding: 0 0 1.5em;
@@ -166,6 +184,6 @@ div.col-md-12.right-column__module--body {
 	padding: 1em 0;
 
 	p {
-		font-size: 0.75em;
+		font-size: 1em;
 	}
 }

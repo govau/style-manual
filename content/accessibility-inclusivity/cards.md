@@ -10,7 +10,7 @@ cards:
   - headline: Choose accessible formats
     text: 'How to choose the most useful format for the user.'
     link: 'accessible-formats/'
-  - headline: Structure the content around user needs
+  - headline: Structure content
     text: 'How to make it easy for the user to find what they need.'
     link: 'structure-content/'
   - headline: Write for everyone

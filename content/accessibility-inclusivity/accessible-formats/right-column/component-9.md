@@ -2,8 +2,8 @@
 layout: component/right-col
 title: 'Complies with WCAG'
 imgSrc: ''
-space: '80em'
+space: '315em'
 altClass: 'dark-block'
 ---
 
-[criteria 1.1.1 (Level A)](#)
+[criteria 1.2.5 (Level AA)](#)

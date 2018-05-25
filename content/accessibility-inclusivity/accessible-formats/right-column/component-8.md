@@ -1,9 +1,9 @@
 ---
 layout: component/right-col
-title: 'More resources'
+title: 'Complies with WCAG'
 imgSrc: ''
-space: '413em'
-altClass: 'more-resources'
+space: '314em'
+altClass: 'dark-block'
 ---
 
-Read guidance on [communicating with Aboriginal and Torres Strait Islander Audiences](#) from the Department of Prime Minister and Cabinet.
+[criteria 1.2.5 (Level AA)](#)

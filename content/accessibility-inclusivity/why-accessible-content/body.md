@@ -19,7 +19,11 @@ Australia is a diverse country that includes people of various cultures, languag
   Benefits of accessible content
 </h2>
 
-Accessibility is a basic human right. It is against the law to be discriminated against in many areas of public life, including employment, education, the provision of goods, services and facilities, accommodation, sport and the administration of Commonwealth laws and services (Source: [Australian Human Rights Commission](#)) 
+Accessibility is a basic human right. 
+
+<p class="au-callout">
+It is against the law to be discriminated against in many areas of public life, including employment, education, the provision of goods, services and facilities, accommodation, sport and the administration of Commonwealth laws and services (Source: [Australian Human Rights Commission](#)) 
+</p>
 
 The people who most need government services and information often find them the hardest to understand and use. 
 
