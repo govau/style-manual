@@ -1,14 +1,12 @@
 layout: component/page
-pagetitle: numbers
+pagetitle: Why accessibile?
 headernav: false
 showheader: false
 
 header:
   - /_shared/header-sans-menu.md
 
-rightcol:
-  - right-col.md
-  - right-col-1.md
+rightcol: ''
 
 main:
   - body.md

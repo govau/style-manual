@@ -6,10 +6,10 @@ It is a government requirement to make information and services accessible and i
 Learn how to design content so that everyone can use it.
 </p>
 
-## Why create inclusive and accessible content?
+<!-- ## Why create inclusive and accessible content?
 
 Find out about Australia’s diverse needs and your compliance obligations.
 
-<a class="au-cta-link" href="why-accessible-content/">Find out why</a>
+<a class="au-cta-link" href="why-accessible-content/">Find out why</a> -->
 
 ## Where to begin

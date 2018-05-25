@@ -2,6 +2,7 @@ import Navigation      from './../navigation';
 import ComponentHeader from './header';
 import ComponentFooter from './footer';
 import AUskipLink      from '../../_uikit/layout/skip-link';
+// import Rightcol from './right-col';
 
 
 import React, { Fragment } from 'react';
@@ -29,7 +30,7 @@ const ComponentPage = ({
 	pagetitle,
 	main,
 	footer,
-	rightCol,
+	rightcol,
 	module = ''
 }) => {
 
@@ -74,28 +75,6 @@ const ComponentPage = ({
 	<script src=${ _relativeURL( '/assets/js/header.js', _ID ) }></script>`;
 
 	sidebar = sidebar == undefined ? '' : `<img src="/assets/img/sm-og-header.png"/>`
-
-	let rightColumn = (rightCol) => {
-		let rightColImg = rightCol.imgSrc ? <img src={ rightCol.imgSrc }/> : ''
-
-		if (rightCol) {
-			return (
-				<div className="right-column__module">
-					<div className="col-md-9 right-column__module--header">
-						<h4 class="right-column__module--h4">{ rightCol.title }</h4>
-					</div>
-					<div className="col-md-3 right-column__module--emoji">
-						{ rightColImg }
-					</div>
-					<div class="col-md-12 right-column__module--body">
-						{ rightCol.main }
-					</div>
-				</div>
-			)
-		} else {
-			return null
-		}
-	}
 
 	return (
 		<html>
@@ -142,7 +121,7 @@ const ComponentPage = ({
 								}
 							</div>
 							<div class="col-md-3 right-column">
-								{ rightColumn(rightCol) }
+								{ rightcol }
 							</div>
 						</div>
 					</main>

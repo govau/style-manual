@@ -1,10 +1,12 @@
 ---
 layout: component/right-col
-title: 'Why?'
-imgSrc: '/assets/img/think-face.png'
-space: '10em'
+title: 'Right Col 2 title'
+imgSrc: ''
+space: '12em'
+altClass: 'dark-block'
 ---
-<a href="/numbers-2/blog-post/">Why it's easier to read numbers on screen</a>
+
+<a href="/numbers-2/blog-post/">Right col 2</a>
 
 Norman Nielson Group tells us the science behind why it’s easier to read numbers on screen.
 
