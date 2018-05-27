@@ -2,7 +2,7 @@
 layout: component/right-col
 title: 'More resources'
 imgSrc: ''
-space: '413em'
+space: '388em'
 altClass: 'more-resources'
 ---
 
