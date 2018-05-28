@@ -2,7 +2,7 @@
 layout: component/right-col
 title: 'Complies with WCAG'
 imgSrc: ''
-space: '106em'
+space: '112em'
 altClass: 'dark-block'
 ---
 

@@ -17,9 +17,9 @@ Learn how to create government content that everyone can understand.
   </ul>
 </nav>
 
-<!-- <h2 id="section1" class="au-inpage-nav-section au-display-xl">
+<h2 id="section1" class="au-inpage-nav-section au-display-xl">
   Why write for everyone
-</h2> -->
+</h2>
 
 Clear writing and using common words (plain English) helps everyone to understand, regardless of their ability, including:
 

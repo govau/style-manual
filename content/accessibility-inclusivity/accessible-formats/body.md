@@ -4,7 +4,8 @@
 Plan to create accessible content from the start, whether you’re writing a policy, publishing a news story, making a video or guiding users through a transaction.
 </p>
 
-Everyone involved from creation through to publishing is responsible for ensuring accessibility. Senior executives, managers, subject matter experts, online content experts and publishing teams each play a role and should know the risks of not complying.
+Everyone involved from creation through to publishing is responsible for ensuring accessibility.
+<!-- Senior executives, managers, subject matter experts, online content experts and publishing teams each play a role and should know the risks of not complying. -->
 
 
 <nav class="au-inpage-nav-links">
