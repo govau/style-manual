@@ -187,3 +187,23 @@ div.col-md-12.right-column__module--body {
 		font-size: 1em;
 	}
 }
+
+.print-button {
+    position: absolute;
+    top: 30px;
+	right: 30px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	
+	> * {
+		display: block;
+		cursor: pointer;
+		
+		p {
+			color: #000;
+			text-decoration: underline;
+			margin-left: 5px;
+		}
+	}
+}

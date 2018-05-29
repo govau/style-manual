@@ -4,7 +4,7 @@ headernav: false
 showheader: false
 
 header:
-  - /_shared/header-sans-menu.md
+  - /_shared/header-and-print.md
 
 rightcol:
   - right-column/component-1.md

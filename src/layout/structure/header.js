@@ -7,7 +7,7 @@ import PropTypes           from 'prop-types';
 /**
  * The header component
  */
-const Header = ({ title, title_badge, mainmenu, header_govau, _relativeURL, _ID, _pages, _body }) => (
+const Header = ({ title, title_badge, mainmenu, print_icon, header_govau, _relativeURL, _ID, _pages, _body }) => (
 	<div className="header-wrapper">
 		<AUskipLink links={[
 			{
@@ -75,10 +75,17 @@ const Header = ({ title, title_badge, mainmenu, header_govau, _relativeURL, _ID,
 				tabIndex="-1"
 				className="mainmenu au-body au-body--dark au-accordion__body au-accordion--closed">
 				<div className="container-fluid">
-					<div className="row">
+					<div className="row" style={{ position: 'relative' }}>
 						<div className="col-md-12">
 							{ mainmenu }
 						</div>
+						{ print_icon === true ?
+							<div className="print-button">
+								<div><img src="/assets/img/print-icon.svg" /></div>
+								<div><p>Print</p></div>
+							</div>
+							: ''
+						}
 					</div>
 				</div>
 			</div>
