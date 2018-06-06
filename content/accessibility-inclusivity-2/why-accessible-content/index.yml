@@ -1,0 +1,17 @@
+layout: component/page
+pagetitle: Why accessibile?
+headernav: false
+showheader: false
+
+header:
+  - /_shared/header-and-print.md
+
+rightcol:
+  - right-column/component-1.md
+  - right-column/component-2.md
+
+main:
+  - body.md
+
+footer:
+  - /_shared/footer.md

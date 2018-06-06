@@ -1,0 +1,15 @@
+layout: component/page
+pagetitle: Why accessibile?
+headernav: false
+showheader: false
+
+header:
+  - /_shared/header-sans-menu.md
+
+rightcol: ''
+
+main:
+  - body.md
+
+footer:
+  - /_shared/footer.md
