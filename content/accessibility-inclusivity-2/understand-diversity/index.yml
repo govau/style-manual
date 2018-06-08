@@ -6,11 +6,10 @@ showheader: false
 header:
   - /_shared/header-and-print.md
 
-rightcol:
-  - right-column/component-1.md
-
 main:
-  - body.md
+  - body-1.md
+  - body-2.md
+  - right-column/component-1.md
 
 footer:
   - /_shared/footer.md

@@ -30,7 +30,6 @@ const ComponentPage = ({
 	pagetitle,
 	main,
 	footer,
-	rightcol,
 	module = ''
 }) => {
 
@@ -88,10 +87,7 @@ const ComponentPage = ({
 				<div className="content-wrapper">
 					<main className="main au-body container-fluid">
 						<div className="row content-matchheight">
-							<div className="col-md-3 sidebar">
-								{ sidebar }
-							</div>
-							<div id="content" tabIndex="-1" className="col-md-12 content">
+							<div id="" tabIndex="-1" className="">
 								{
 									showheader &&
 									<Fragment>
@@ -120,9 +116,9 @@ const ComponentPage = ({
 									showheader && <ComponentFooter _ID={ _ID } _parseYaml={ _parseYaml } _relativeURL={ _relativeURL } _pages={ _pages } _parents= { _parents } />
 								}
 							</div>
-							<div class="col-md-3 right-column">
+							{/* <div class="col-md-3 right-column">
 								{ rightcol }
-							</div>
+							</div> */}
 						</div>
 					</main>
 				</div>
