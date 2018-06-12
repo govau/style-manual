@@ -1,9 +1,9 @@
 ---
-layout: component/right-col
-title: 'Complies with WCAG'
-imgSrc: ''
-space: '314em'
-altClass: 'dark-block'
+layout: component/right-col-2
+title: 'More resources'
+altClass: 'more-resources'
 ---
 
-[criteria 1.2.5 (Level AA)](#)
+Read a [Quick reference to audio and video requirements under WCAG](#) from Media Access Australia  
+Read a [Short guide to creating accessible video](#) from SitePoint  
+Read guidance on [Using captions, transcripts and audio descriptions](#) from WebAIM.

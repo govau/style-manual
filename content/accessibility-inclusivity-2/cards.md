@@ -16,4 +16,5 @@ cards:
   - headline: Write for everyone
     text: 'How to write inclusive and accessible content.'
     link: 'write-for-everyone/'
+offset: 'col-md-offset-3'
 ---

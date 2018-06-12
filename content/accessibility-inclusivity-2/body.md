@@ -1,3 +1,7 @@
+---
+layout: component/page-section
+---
+
 # Create content for everyone
 
 <p class="componentheader__body abstract">

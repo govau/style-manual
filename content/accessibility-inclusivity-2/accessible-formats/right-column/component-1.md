@@ -1,8 +1,6 @@
 ---
-layout: component/right-col
-title: 'More resources'
-imgSrc: ''
-space: '0'
+layout: component/right-col-2
+title: 'co-created'
 altClass: 'co-created'
 ---
 

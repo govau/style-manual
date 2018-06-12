@@ -1,10 +1,7 @@
 ---
-layout: component/right-col
+layout: component/right-col-2
 title: 'More resources'
-imgSrc: ''
-space: '265em'
 altClass: 'more-resources'
 ---
 
 Read [W3C’s complex images tutorial](#) for different approaches and examples to help you .
-

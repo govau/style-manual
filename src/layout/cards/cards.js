@@ -8,35 +8,41 @@ import Card from './card';
 /**
  * The partial component
  */
-const Cards = ( page ) => (
-	<div className={`au-body au-grid`}>
-		<div className="">
-			<div className="row">
-				<div className="col-md-12 col-lg-12 cards">
-					<ul className="cards__list">
-						{
-							page.cards.map( ( card, i ) => (
-								<li key={ i } className="col-xs-6 col-md-4 cards__list__item">
-									<Card
-										preheadline={ card.preheadline }
-										link={ card.link }
-										background={ card.background }
-										image={ card.image }
-										headline={ card.headline }
-										text={ card.text }
-										cta={ card.cta }
-									/>
-								</li>
-							))
-						}
-					</ul>
+const Cards = ( page ) => {
+	let gridSpace = 'col-md-12 col-lg-12 cards'
+	if (page.offset) {
+		gridSpace = `${ page.offset } col-md-9 col-lg-9 cards`
+	}
+	return (
+		<div className={`au-body au-grid`}>
+			<div className="">
+				<div className="row">
+					<div className={ gridSpace }>
+						<ul className="cards__list">
+							{
+								page.cards.map( ( card, i ) => (
+									<li key={ i } className="col-xs-6 col-md-4 cards__list__item">
+										<Card
+											preheadline={ card.preheadline }
+											link={ card.link }
+											background={ card.background }
+											image={ card.image }
+											headline={ card.headline }
+											text={ card.text }
+											cta={ card.cta }
+										/>
+									</li>
+								))
+							}
+						</ul>
+					</div>
 				</div>
-			</div>
 
-			{ page.cardsLink && <a className="cards__link au-cta-link" href={ `${ page.cardsLink.url }` }>{ page.cardsLink.text }</a> }
+				{ page.cardsLink && <a className="cards__link au-cta-link" href={ `${ page.cardsLink.url }` }>{ page.cardsLink.text }</a> }
+			</div>
 		</div>
-	</div>
-);
+	)
+}
 
 
 Cards.propTypes = {
