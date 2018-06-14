@@ -1,8 +1,6 @@
 ---
-layout: component/right-col
+layout: component/right-col-2
 title: 'Complies with WCAG'
-imgSrc: ''
-space: '116em'
 altClass: 'dark-block'
 ---
 

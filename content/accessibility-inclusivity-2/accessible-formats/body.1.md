@@ -4,16 +4,8 @@ layout: component/page-section
 
 # Choose accessible formats
 
-<p class="componentheader__body abstract">
-Plan to create accessible content from the start, whether you’re writing a policy, publishing a news story, making a video or guiding users through a transaction.
-</p>
-
-Everyone involved from creation through to publishing is responsible for ensuring accessibility.
-<!-- Senior executives, managers, subject matter experts, online content experts and publishing teams each play a role and should know the risks of not complying. -->
-
-
 <nav class="au-inpage-nav-links">
-  <h2 class="au-inpage-nav-links__heading">Contents</h2>
+  <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
     <li><a href="#section1">Use HTML as the default</a></li>
     <li><a href="#section2">Push back on PDFs</a></li>
@@ -21,6 +13,13 @@ Everyone involved from creation through to publishing is responsible for ensurin
     <li><a href="#section4">Create accessible videos</a></li>
   </ul>
 </nav>
+
+<p class="componentheader__body abstract">
+Plan to create accessible content from the start, whether you’re writing a policy, publishing a news story, making a video or guiding users through a transaction.
+</p>
+
+Everyone involved from creation through to publishing is responsible for ensuring accessibility.
+<!-- Senior executives, managers, subject matter experts, online content experts and publishing teams each play a role and should know the risks of not complying. -->
 
 <h2 id="section1" class="au-inpage-nav-section au-display-xl">
   Use HTML as the default

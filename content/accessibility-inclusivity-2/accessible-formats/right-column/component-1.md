@@ -4,8 +4,8 @@ title: 'co-created'
 altClass: 'co-created'
 ---
 
-Co-created by  
+__Co-created by__  
 Vision Australia
 
-Last updated  
+__Last updated__  
 May 2018

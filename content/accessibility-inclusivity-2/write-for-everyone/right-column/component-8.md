@@ -1,8 +1,6 @@
 ---
-layout: component/right-col
+layout: component/right-col-2
 title: 'More resources'
-imgSrc: ''
-space: '394em'
 altClass: 'more-resources'
 ---
 
