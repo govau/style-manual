@@ -210,3 +210,57 @@ div.col-md-12.right-column__module--body {
 .componentdocumentation .col-md-6 + .col-md-3 {
 	margin-top: 5em;
 }
+
+.header-link {
+	display: flex;
+	justify-content: flex-end;
+
+	&.--wrapper {
+		margin-top: 3em;
+		height: 0;
+		padding: 0;
+		border-style: solid;
+		border-width: 1px;
+		border-image: linear-gradient(to right, #fff, #5f5f5f) 1;
+
+		&::after {
+			content: '';
+			position: absolute;
+			height: 5em;
+			border-style: solid;
+			border-width: 1px;
+			right: -1px;
+			border-image: linear-gradient(to top, #fff, #5f5f5f) 1;
+
+		}
+	}
+
+	&.--link {
+		height: 4em;
+		top: -2em;
+		position: absolute;
+		flex-direction: column;
+		align-items: flex-end;
+		justify-content: space-between;
+
+		span {
+			visibility: hidden;
+			bottom: -15px;
+			position: relative;
+			font-size: 0.75em;
+			transition: all 0.25s ease-in-out;
+			text-decoration: underline;
+		}
+
+		i {
+			padding: 0 1em;
+		}
+
+		&:hover {
+			span {
+				visibility: visible;
+				bottom: -10px;
+			}
+		}
+	}
+}

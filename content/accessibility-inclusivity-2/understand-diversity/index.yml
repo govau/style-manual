@@ -1,5 +1,5 @@
 layout: component/page.2
-pagetitle: Why accessibile?
+pagetitle: Understanding diversity
 headernav: false
 showheader: false
 
@@ -7,6 +7,7 @@ header:
   - /_shared/header-and-print.md
 
 main:
+  - links/link-1.md
   - body-1.md
   - body-2.md
   - right-column/component-1.md
