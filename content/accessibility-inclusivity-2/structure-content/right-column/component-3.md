@@ -4,5 +4,5 @@ title: 'Complies with WCAG'
 altClass: 'dark-block'
 ---
 
-[criteria 2.4.2 (Level A)](#)
+[criteria 2.4.2 (Level A)](#) <i><img src="/assets/img/external_link.svg"/></i>
 

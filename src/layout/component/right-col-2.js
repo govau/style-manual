@@ -27,7 +27,9 @@ const RightColComponent = ({title, imgSrc, altClass = '', _body}) => {
         header =
                 <div>
                     <div className="col-md-12 right-column__module--header">
-                        <h4 class="right-column__module--h4">{ title }</h4>
+                        <h4 class="right-column__module--h4">
+                            <span>Complies with <a href="#">WCAG </a><i><img src="/assets/img/external_link.svg"/></i></span>
+                        </h4>
                     </div>
                 </div>
     }

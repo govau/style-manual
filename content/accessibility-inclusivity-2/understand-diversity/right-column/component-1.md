@@ -5,4 +5,6 @@ imgSrc: ''
 altClass: 'more-resources'
 ---
 
-Read the [W3C’s guide to how people with disabilities use the web](#).
+Read the W3C’s guide:
+
+[How people with disabilities use the web](#). <i><img src="/assets/img/external_link-2.svg"/></i>

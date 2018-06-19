@@ -1,50 +1,35 @@
 ---
 layout: component/page-section
+widthClass: col-md-9
 ---
-
-<h2 id="section5" class="au-display-xl">
-  Create accessible videos
-</h2>
-
-Video is not just difficult for users with visual impairment. Think about:
-- hearing impairment
-- mobility — for example, restricted keyboard access
-- flickering and moving content
-- language difficulty
-- the user’s environment — for example a noisy location or a workplace where the sound disturbs colleagues
-
-### General rules for creating accessible videos 
-
-#### Create a transcript
-
-All videos must have transcripts for people who don’t want to watch the video, and for search engine indexing. 
-
-Add the HTML transcript to the same page as the video. Or add a link below or beside the video to a page with the transcript.
-
-Include all speech content and the speakers’ names.
-
-If there is only 1 speaker you can leave out their name, unless their identity is crucial to the content.
-
-Write relevant non-verbal information in square brackets.
 
 <br>
 <article class="sm-basic-example">
 <h4>Example</h4>
-‘…to get to the other side [laughing].’
+<img src="/assets/img/example-do-dont-2.png"/>
+<!-- <p>Alternative text is usually not visible; it is included in this example just so you can see what it is.</p> -->
 </article>
 
-End the transcript with ‘End of transcript’.
+#### Diagrams, graphs, charts and other complex images
 
-#### Create closed captions 
+A complex image needs:
+- text near the image that explains why it is there and what it shows or highlights
+- short alt text that briefly describes the content and is different from the caption
+- text link to a page with a long text description (and possibly the associated data)
 
-All videos must have closed captions for people who can’t hear the dialogue and other sounds.
+Graphs need dots, dashes and patterns, in addition to colour, to show the difference between data.
 
-#### Use audio description for important visual-only information
+<br>
+<article class="sm-basic-example">
+<h4>Example</h4>
+<img src="/assets/img/example-2.png"/>
+<!-- <p>Alternative text is usually not visible; it is included in this example just so you can see what it is.</p> -->
+</article>
 
-All videos must have an audio description for people who can’t see the video that explains any important visual-only detail. 
+#### Long text descriptions for complex images 
 
-Provide audio description for any text displayed in the video.
+A long text description is a full description of a complex image or the table of data used to generate a graph or chart.
 
-Use audio description to give context if it is not obvious from the title.
+Long text helps people who don’t understand graphs or diagrams as well as those who can’t see them.
 
-You don’t need audio description for dialogue delivered straight to camera (‘talking heads’).
+To write long text imagine you’re describing the essential elements of a complex image in a radio interview or over the phone. Explain the important aspects, not necessarily the detail.

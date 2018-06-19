@@ -4,12 +4,8 @@ layout: component/page-section
 
 # Why create inclusive and accessible content? 
 
-<p class="componentheader__body abstract">
-Australia is a diverse country that includes people of various cultures, languages, abilities and ages. If you are creating content for government information and services, you must ensure it is accessible and inclusive.
-</p>
-
 <nav class="au-inpage-nav-links">
-  <h2 class="au-inpage-nav-links__heading">Contents</h2>
+  <h2 class="au-inpage-nav-links__heading">On this page</h2>
   <ul class="au-link-list">
     <li><a href="#section1">Benefits of accessible content</a></li>
     <li><a href="#section2">Consequences and risks of non-compliance</a></li>
@@ -18,6 +14,10 @@ Australia is a diverse country that includes people of various cultures, languag
     <li><a href="#section2">Audience diversity</a></li> -->
   </ul>
 </nav>
+
+<p class="componentheader__body abstract">
+Australia is a diverse country that includes people of various cultures, languages, abilities and ages. If you are creating content for government information and services, you must ensure it is accessible and inclusive.
+</p>
 
 <h2 id="section1" class="au-inpage-nav-section au-display-xl">
   Benefits of accessible content

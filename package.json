@@ -1,6 +1,6 @@
 {
-	"name": "designsystem",
-	"version": "1.0.0",
+	"name": "stylemanual",
+	"version": "0.0.1",
 	"description": "The government open language for design website.",
 	"scripts": {
 		"docs": "cuttlebelle docs",
@@ -29,29 +29,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/govau/designsystem"
+		"url": "https://github.com/govau/stylemanual"
 	},
 	"author": {
 		"name": "Commonwealth of Australia, DTA",
 		"email": "guides@digital.gov.au",
 		"url": "https://www.dta.gov.au/"
 	},
-	"homepage": "https://github.com/govau/designsystem",
+	"homepage": "https://github.com/govau/stylemanual",
 	"contributors": [
 		{
-			"name": "Dominik Wilkowski",
-			"email": "hi@dominik-wilkowski.com",
-			"url": "https://dominik-wilkowski.com/"
-		},
-		{
-			"name": "Alex Page",
-			"email": "alex@alexpage.com.au",
-			"url": "http://alexpage.com.au"
-		},
-		{
-			"name": "Trevor Brennan",
-			"email": "t@trevorbrennan.com",
-			"url": "http://trevorbrennan.com/"
+			"name": "Christopher Rodriguez",
+			"email": "christopher.rodriguez@digital.gov.au",
+			"url": "https://rodriguez.yoga"
 		}
 	],
 	"license": "MIT",

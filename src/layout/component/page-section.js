@@ -1,8 +1,10 @@
 import React, { Fragment } from 'react';
 
-const PageSection = ({_body}) => {
+const PageSection = ({_body, widthClass}) => {
+    widthClass = widthClass ? widthClass : 'col-md-6'
+    let gridClass = `col-md-offset-3 ${widthClass}`
     return (
-        <div className="col-md-offset-3 col-md-6">
+        <div className={ gridClass }>
             <span></span>
             { _body }
         </div>
