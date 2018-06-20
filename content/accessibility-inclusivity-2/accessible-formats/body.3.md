@@ -41,16 +41,3 @@ A common way of including decorative images is to add them using the CSS rather 
 
 Never include an informative image with CSS as alt text cannot be applied to it.
 
-<br>
-<article class="sm-basic-example">
-<h4>Examples</h4>
-```alt=""``` (don’t add a space between the quotation marks)
-</article>
-
-#### Informative images 
-
-Convey a simple concept or information that can be expressed in a short phrase or sentence.
-
-An informative image needs:
-text near the image that references it
-short alt text that briefly describes the content (different from the caption)

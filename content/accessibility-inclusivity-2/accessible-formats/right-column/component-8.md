@@ -4,10 +4,18 @@ title: 'More resources'
 altClass: 'more-resources'
 ---
 
-Read a [Quick reference to audio and video requirements under WCAG](#) from Media Access Australia  
+Read a quick reference from Media Access Australia:
 
-Read a [Short guide to creating accessible video](#) from SitePoint  
+[Audio and video requirements under WCAG](#) <i><img src="/assets/img/external_link-2.svg"/></i>
 
-Read guidance on [Using captions, transcripts and audio descriptions](#) from WebAIM.
+A short guide from SitePoint:
 
-Read [W3C’s complex images tutorial](#) for different approaches and examples to help you .
+[Creating accessible video](#) <i><img src="/assets/img/external_link-2.svg"/></i>
+
+Read guidance from WebAIM:
+
+[Using captions, transcripts and audio descriptions](#) <i><img src="/assets/img/external_link-2.svg"/></i>
+
+Read W3C's complete guide:
+
+[W3C’s complex images tutorial](#) <i><img src="/assets/img/external_link-2.svg"/></i>

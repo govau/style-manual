@@ -3,12 +3,19 @@ layout: component/page-section
 widthClass: col-md-9
 ---
 
+<img src="/assets/img/example-do-dont-3.png"/>
+
+#### Informative images 
+
+Convey a simple concept or information that can be expressed in a short phrase or sentence.
+
+An informative image needs:
+text near the image that references it
+short alt text that briefly describes the content (different from the caption)
+
 <br>
-<article class="sm-basic-example">
-<h4>Example</h4>
 <img src="/assets/img/example-do-dont-2.png"/>
-<!-- <p>Alternative text is usually not visible; it is included in this example just so you can see what it is.</p> -->
-</article>
+
 
 #### Diagrams, graphs, charts and other complex images
 

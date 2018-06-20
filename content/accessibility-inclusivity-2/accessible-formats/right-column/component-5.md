@@ -4,5 +4,6 @@ title: 'More resources'
 altClass: 'more-resources'
 ---
 
-Different types of images have different alt text requirements. You can use an [alt text decision tree](#) to help you work out what kind of alt text you need.
+Different types of images have different alt text requirements. Read guidance about out what kind of alt text you need:
 
+[Alt text decision tree](#) <i><img src="/assets/img/external_link-2.svg"/></i>

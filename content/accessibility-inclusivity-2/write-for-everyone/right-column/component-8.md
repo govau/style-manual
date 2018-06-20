@@ -4,7 +4,11 @@ title: 'More resources'
 altClass: 'more-resources'
 ---
 
-Read guidance on [communicating with Aboriginal and Torres Strait Islander Audiences](#) from the Department of Prime Minister and Cabinet.
+Read guidance from the Department of Prime Minister and Cabinet:
+
+[Communicating with Aboriginal and Torres Strait Islander Audiences](#) <i><img src="/assets/img/external_link-2.svg"/></i>
 
 
-Find out the [media Consumption and Communication Preferences](#) of Aboriginal and Torres Strait Islander Audiences from the Department of Finance.
+Read guidance on Aboriginal and Torres Strait Islander Audiences from the Department of Finance:
+
+[Media Consumption and Communication Preferences](#) <i><img src="/assets/img/external_link-2.svg"/></i>

@@ -4,4 +4,6 @@ title: 'More resources'
 altClass: 'more-resources'
 ---
 
-Use our handy list of plain [English and inclusive terms](/accessibility-inclusivity/write-for-everyone/inclusive-terms/) to create accessible, inclusive content.
+A collection of words, phrases and their alternative terms for improving your content:
+
+[Plain English and inclusive terms](/accessibility-inclusivity/write-for-everyone/inclusive-terms/) <i><img src="/assets/img/external_link-2.svg"/></i>

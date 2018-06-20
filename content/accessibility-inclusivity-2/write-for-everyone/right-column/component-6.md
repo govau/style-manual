@@ -4,6 +4,10 @@ title: 'More resources'
 altClass: 'more-resources'
 ---
 
-Use the [Multicultural access and equity resources for Government agencies](#) from the Department of Home Affairs.
+From the Department of Home Affairs: 
 
-The [Australian Indigenous Languages Database](#) from AIATSIS may help you identify the appropriate local language.
+[Multicultural access and equity resources for Government agencies](#) <i><img src="/assets/img/external_link-2.svg"/></i>
+
+AIATSIS guidance may help you identify the appropriate local language. 
+
+[Australian Indigenous Languages Database](#) <i><img src="/assets/img/external_link-2.svg"/></i>
