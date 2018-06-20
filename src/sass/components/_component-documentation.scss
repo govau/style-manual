@@ -252,11 +252,11 @@ div.col-md-12.right-column__module--body {
 		z-index: 3;
 
 		span {
-			visibility: hidden;
+			opacity: 0;
 			bottom: -10px;
 			position: relative;
 			font-size: 0.75em;
-			transition: all 0.05s ease-in-out;
+			transition: all 0.25s ease-in-out 0.25s;
 			text-decoration: underline;
 		}
 
@@ -267,13 +267,14 @@ div.col-md-12.right-column__module--body {
 			padding: 0 1em;
 			z-index: 1;
 			transition: all 0.05s ease-in-out;
+			// transform: rotateY(0deg);
 		}
 
 		&::after {
 			content: '';
 			position: absolute;
-			right: -2px;
-			top: 31px;
+			right: -12px;
+			top: 21px;
 			height: 2.6em;
 			width: 2.6em;
 			background-color: #fff;
@@ -294,24 +295,27 @@ div.col-md-12.right-column__module--body {
 			z-index: 1;
 			transition: all 0.05s ease-in-out;
 			transform: rotate(45deg);
-			visibility: hidden;
+			opacity: 0;
 		}
 
 		&:hover {
 			span {
-				visibility: visible;
+				opacity: 1;
 				bottom: -7px;
 			}
 
 			&::after {
 				visibility: visible;
+				right: -2px;
+				top: 31px;
 			}
 
 			&::before {
-				visibility: visible;
+				opacity: 1;
 			}
 
 			i {
+				// transform: rotateY(180deg);
 				top: 9px;
 				right: 6px;
 			}
