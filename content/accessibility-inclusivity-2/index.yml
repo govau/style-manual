@@ -5,8 +5,7 @@ showheader: false
 
 header:
   - /_shared/header-sans-menu.md
-
-rightCol: ''
+  # - /_shared/header-menu-ia1.md
 
 main:
   - body.md

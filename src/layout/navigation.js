@@ -5,6 +5,10 @@ import PropTypes           from 'prop-types';
 
 export const CreateLink = ( link, _relativeURL, _ID, _pages ) => {
 
+	if (link.html) {
+		console.log('link has html', link)
+	}
+
 	const linkClasses = `${ link.text == 'Github' ? 'icon icon--dark icon--github icon--action' : '' }` +
 		`${ link.text == 'Download' ? 'icon icon--dark icon--download icon--action' : '' }` +
 		`${ link.text == 'Live demo' ? 'icon icon--right icon--demo icon--action' : '' }`;
